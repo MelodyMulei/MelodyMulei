@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-**Data Analyst** with a background in Finance and a passion for turning raw data into actionable insights.  
-I love turning raw data into insights, building dashboards, and understanding how numbers tell a story — all while applying a systems-thinking approach I honed in audit.. My current focus is growing my skills in data analysis while exploring the tools and workflows used in modern data ecosystems.
-
-Toolss: Excel, Python, SQL, Power BI
+Data Analyst with 3+ years of experience in transforming complex datasets into actionable insights, automating reporting processes, and supporting business decisions. 
+Skilled in **Excel, SQL, Python, and Power BI**, with a strong focus on data visualization, trend analysis, and process optimization. 
+Passionate about leveraging data to solve problems, improve operations, and drive measurable business outcomes 
 
 ## What I’m Building  
 - Data analysis projects using **Excel, SQL, Python, and Power BI**  
