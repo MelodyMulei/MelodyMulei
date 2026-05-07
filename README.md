@@ -12,7 +12,7 @@ Passionate about leveraging data to solve problems, improve operations, and driv
 ## Let’s Connect  
 I’m open to opportunities, collaboration, and learning from others in data.  
 📫 Email: melodymmulei@gmail.com  
-🔗 LinkedIn: (https://www.linkedin.com/in/melody-mulei/)
+🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/melody-mulei/)
 
 
 
